@@ -16,5 +16,5 @@ If you are interested in testing your code as you go, you can use `tests.js` as 
  
  ## to run Project 
  1- start the server.js\
- 2-in terminal run node server.js\
+ 2-in terminal run node server.js
  
