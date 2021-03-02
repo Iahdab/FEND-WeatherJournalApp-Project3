@@ -10,11 +10,11 @@ This will require modifying the `server.js` file and the `website/app.js` file. 
 If you are interested in testing your code as you go, you can use `tests.js` as a template for writing and running some basic tests for your code.
 
 ## To set up the peoject environment
- npm install express. 
- npm install code.
- npm install body-parser.
+ npm install express\
+ npm install code\
+ npm install body-parser\
  
  ## to run Project 
- 1- start the server.js.
- 2-in terminal run node server.js
+ 1- start the server.js\
+ 2-in terminal run node server.js\
  
