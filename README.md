@@ -49,7 +49,7 @@ This will require modifying the `server.js` file and the `website/app.js` file. 
      - ``` npm install express ```
      - ``` npm install cors ```
      - ``` npm install body-parser ```
-   - ***Must have Key from [OpenWeatherAPI](https://openweathermap.org/) for the project to run**
+   - ***Must have Key from [OpenWeatherAPI](https://openweathermap.org/) for the project to run***
      - In APP.js file add the `API_KEY`.
     
   ### RunningProject
