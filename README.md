@@ -21,6 +21,14 @@ This will require modifying the `server.js` file and the `website/app.js` file. 
 ## File
 
 ## CloningRepo
+- in terminal
+```
+`git clone https://github.com/Iahdab/FEND-BlogPost-Project1.git` \
+```
+- or in vscode command palatte 
+```
+>Git: Colne  https://github.com/Iahdab/FEND-BlogPost-Project1.git
+```
 
 ## SetUp
 in terminal install these dependncey 
