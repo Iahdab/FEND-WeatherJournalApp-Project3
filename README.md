@@ -1,5 +1,5 @@
 # Project  Weather Journal App
-***1st Project for [UDACITY](UDACITY.com) NanoDegree*** 
+***3rd Project for [UDACITY](UDACITY.com) NanoDegree*** 
 
 ## Table of Contents
 
