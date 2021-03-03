@@ -23,11 +23,11 @@ This will require modifying the `server.js` file and the `website/app.js` file. 
 ## CloningRepo
 - in terminal
 ```
-`git clone https://github.com/Iahdab/FEND-BlogPost-Project1.git` \
+`git clone https://github.com/Iahdab/FEND-WeatherJournalApp-Project3.git` 
 ```
 - or in vscode command palatte 
 ```
->Git: Colne  https://github.com/Iahdab/FEND-BlogPost-Project1.git
+>Git: Colne  https://github.com/Iahdab/FEND-WeatherJournalApp-Project3.git
 ```
 
 ## SetUp
