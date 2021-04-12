@@ -23,7 +23,7 @@ This will require modifying the `server.js` file and the `website/app.js` file. 
 
   ### Functionality
   
-   - Test : 
+   - Test: 
    If you are interested in testing your code as you go, you can use `tests.js` as a template for writing and running some basic tests for your code.
    
   ### File
@@ -39,9 +39,9 @@ This will require modifying the `server.js` file and the `website/app.js` file. 
    - **Clone In Terminal:**\
     ```git clone https://github.com/Iahdab/FEND-WeatherJournalApp-Project3.git```
      OR
-  - **Clone In VS code Command Palatte:**\
+  - **Clone In VS code Command Palette:**\
     ```>Git: Colne  https://github.com/Iahdab/FEND-WeatherJournalApp-Project3.git```
-  - ***NOTE: also you can fetch or Download as zip file.***
+  - ***NOTE: also you can fetch or Download it as a zip file.***
   
   ### SetUpProject
   
@@ -56,7 +56,7 @@ This will require modifying the `server.js` file and the `website/app.js` file. 
   
    - **To run the Project:**
      - In the terminal run the server ``Node Server.js``
-     - Open the html file in browser
+     - Open the HTML file in the browser
      
   ### Packages
   
@@ -67,6 +67,6 @@ This will require modifying the `server.js` file and the `website/app.js` file. 
 
 ## Deploying
 
-A great step to take with your finished project would be to deploy it! Unfortunately its a bit out of scope for me to explain too much about how to do that here, but checkout Netlify or Heroku for some really intuitive free hosting options.
+A great step to take with your finished project would be to deploy it! Unfortunately, it's a bit out of scope for me to explain too much about how to do that here, but checkout Netlify or Heroku for some really intuitive free hosting options.
 
  
